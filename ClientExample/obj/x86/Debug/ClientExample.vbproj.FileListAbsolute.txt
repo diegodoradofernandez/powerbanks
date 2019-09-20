@@ -1,0 +1,30 @@
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\bin\Debug\ClientExample.exe
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\bin\Debug\ClientExample.pdb
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\bin\Debug\ClientExample.xml
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.ClientForm.resources
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.Resources.resources
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.exe
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.xml
+C:\Users\Reedo\documents\visual studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.pdb
+C:\Users\Reedo\Documents\Visual Studio 2010\Projects\TcpClientServerExample\ClientExample\obj\x86\Debug\ClientExample.vbproj.GenerateResource.Cache
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.exe
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.pdb
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.xml
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.ClientForm.resources
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.Resources.resources
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.vbproj.GenerateResource.cache
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.vbproj.CoreCompileInputs.cache
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.exe
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.xml
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.pdb
+C:\Users\PC-00\Downloads\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.vbprojAssemblyReference.cache
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.exe
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.pdb
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\bin\Debug\ClientExample.xml
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.ClientForm.resources
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.Resources.resources
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.vbproj.GenerateResource.cache
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.vbproj.CoreCompileInputs.cache
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.exe
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.xml
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\ClientExample\obj\x86\Debug\ClientExample.pdb

@@ -1,0 +1,6 @@
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\bin\Debug\netCrc.dll
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\bin\Debug\netCrc.pdb
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\obj\Debug\netCrc.csproj.CoreCompileInputs.cache
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\obj\Debug\netCrc.dll
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\obj\Debug\netCrc.pdb
+D:\Proyectos\Simple Multi-User TCPIP ClientServer Example (Depreciated!)\VB\netCrc\obj\Debug\netCrc.csprojAssemblyReference.cache
